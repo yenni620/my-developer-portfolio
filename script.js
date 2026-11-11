@@ -1,4 +1,3 @@
-// The contact form is intentionally a front-end demonstration only.
 const contactForm = document.querySelector("#contact-form");
 const soundToggle = document.querySelector("#sound-toggle");
 const portraitReveal = document.querySelector(".portrait-reveal");
